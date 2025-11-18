@@ -13,3 +13,6 @@
     * git log - Birtir öll commits sem eru í repository 
     * git checkout - Vísir yfir á aðra grein
     * git branch - Sýnir lista yfir allar staðaltengdar greinar
+
+4. Hvað er útgáfustýring (Version Control)?
+    *Fylgist með breyingum á skŕáum eða skráasafni með tímanum.
