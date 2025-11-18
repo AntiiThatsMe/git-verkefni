@@ -16,3 +16,8 @@
 
 4. Hvað er útgáfustýring (Version Control)?
     * Fylgist með *breyingum á skŕáum* eða *skráasafni* með tímanum.
+
+5. Hverjir eru helstu kostir við að nota GIT?
+    * Git fylgist með ***Öllum*** breytingum á skráum og repository með version control
+    * Git auðveldar samstarf með því að gera mörgum forritum kleift að vinna að sama verkefni á sama tíma án þess að skrifa yfir vinnu hvers annars
+
