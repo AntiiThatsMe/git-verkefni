@@ -29,3 +29,6 @@
         * Þetta er þar sem þú býrð til, breytir og eyðir skrám
     * Staging Area virkar sem millilag milli vinnumöppunnar þinnar og Git-geymslunnar
         * Það er tímabundið svæði þar sem þú undirbýrð breytingar sem verða teknar með í næstu skráningu
+
+![Ísland](iceland.png)
+
