@@ -15,4 +15,4 @@
     * git branch - Sýnir lista yfir allar staðaltengdar greinar
 
 4. Hvað er útgáfustýring (Version Control)?
-    *Fylgist með breyingum á skŕáum eða skráasafni með tímanum.
+    * Fylgist með breyingum á skŕáum eða skráasafni með tímanum.
