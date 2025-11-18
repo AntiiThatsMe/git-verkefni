@@ -9,3 +9,7 @@
     * git status - Sýnir stöðu vinnumöppunar
     * git diff - Sýnir mun milli mismunandi stöðum í git safninu
 
+3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
+    * git log - Birtir öll commits sem eru í repository 
+    * git checkout - Vísir yfir á aðra grein
+    * git branch - Sýnir lista yfir allar staðaltengdar greinar
