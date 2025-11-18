@@ -21,3 +21,5 @@
     * Git fylgist með ***Öllum*** breytingum á skráum og repository með version control
     * Git auðveldar samstarf með því að gera mörgum forritum kleift að vinna að sama verkefni á sama tíma án þess að skrifa yfir vinnu hvers annars
 
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+    > Bara gerðu eins mikið og þú þarft, ekki setja eitt verkefni í tvö commits nema þú ert að leiðrétta.
